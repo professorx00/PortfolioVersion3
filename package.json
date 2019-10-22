@@ -1,0 +1,23 @@
+{
+  "name": "PortfolioVersion3",
+  "version": "1.0.0",
+  "description": "Revision of Portfolio 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/professorx00/PortfolioVersion3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/professorx00/PortfolioVersion3/issues"
+  },
+  "homepage": "https://github.com/professorx00/PortfolioVersion3#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
