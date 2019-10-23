@@ -2,7 +2,7 @@
   "name": "PortfolioVersion3",
   "version": "1.0.0",
   "description": "Revision of Portfolio 3",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/professorx00/PortfolioVersion3.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "David Ward",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/professorx00/PortfolioVersion3/issues"
