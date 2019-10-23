@@ -1,3 +1,12 @@
 .border-me{
   border-bottom: #00bc8c 2px solid;
 }
+.red{
+  border: 2px solid red;
+}
+#cardInfo{
+  height: 40px;
+}
+ul{
+  list-style: none;
+}
